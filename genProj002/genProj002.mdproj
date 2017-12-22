@@ -9,4 +9,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
     <OutputPath>.\</OutputPath>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="EmptyHTMLFile.html" />
+  </ItemGroup>
 </Project>
